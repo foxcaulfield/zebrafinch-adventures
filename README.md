@@ -1,2 +1,0 @@
-# zebrafinch-adventures
- Casual game
